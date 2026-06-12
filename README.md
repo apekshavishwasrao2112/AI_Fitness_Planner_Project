@@ -5,6 +5,11 @@
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI-SDK-412991)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-5A67D8)
 
+
+## 🚀 Live Demo
+
+🔗 https://aifitnessplannerproject-6vetngqrxjkgm8pxfut9wm.streamlit.app/
+
 ## 1. Project Title
 AI Fitness Planner
 
